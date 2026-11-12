@@ -1,0 +1,116 @@
+{
+  "slug": "fireflyclear",
+  "box": 213,
+  "date": "2026-11-16",
+  "title": "FireflyClear",
+  "question": "How does a firefly glow?",
+  "hook": "A firefly is a beetle with a lamp in its tail that wastes almost nothing as heat. Watch one enzyme turn luciferin, ATP and oxygen into a single yellow-green photon, flip the oxygen switch with a puff of nitric oxide, and make a whole tree of fireflies fall into step.",
+  "thumbText": "HOW A FIREFLY GLOWS",
+  "field": "nature",
+  "minutes": 12,
+  "tags": [
+    "firefly",
+    "bioluminescence",
+    "luciferin",
+    "luciferase",
+    "ATP",
+    "quantum yield",
+    "cold light",
+    "nitric oxide",
+    "flash code",
+    "Photuris",
+    "femme fatale",
+    "synchronous fireflies",
+    "Kuramoto model",
+    "Western Ghats",
+    "Bhandardara",
+    "Purushwadi",
+    "Anamalai",
+    "light pollution",
+    "ATP hygiene test",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A beetle with a lamp",
+      "text": "A firefly is a beetle. Its lantern, under the last belly segments, is packed with light cells arranged round air tubes, backed by a white reflector of uric-acid crystals. Nerves run in, but end on the air-tube cells rather than the light cells."
+    },
+    {
+      "title": "Light from chemistry, not heat",
+      "text": "Inside each light cell the enzyme luciferase uses ATP to prime luciferin, then oxygen. A strained ring snaps, leaving oxyluciferin with just enough energy for one yellow-green photon near 560 nm. A careful 2008 measurement found 41 photons per 100 reactions (not the 88 long quoted), still far ahead of a filament bulb's 7% and a little ahead of a good white LED's 30% or so."
+    },
+    {
+      "title": "An oxygen switch",
+      "text": "The lantern is dark because mitochondria near the air tubes use up the oxygen. In the leading model, a nerve signal makes the air-tube cells release nitric oxide, which briefly blocks the mitochondria. Oxygen floods through and the cell flashes. In extra oxygen, the lantern glows nonstop."
+    },
+    {
+      "title": "Codes, liars and synchrony",
+      "text": "Each species has a flash code: a common eastern firefly male flashes a J every 6 seconds and his female answers 2 seconds later. Photuris females fake other species' answers to eat the males. Some fireflies flash in step, which a coupled-oscillator model reproduces."
+    },
+    {
+      "title": "Fireflies of India and the world",
+      "text": "India has at least 92 species, about 60% found nowhere else, most in the Western Ghats. Pre-monsoon festivals at Bhandardara and Purushwadi draw crowds whose torches and footsteps harm the displays. Worldwide, experts rank habitat loss, light at night and pesticides as the top threats."
+    },
+    {
+      "title": "How we found out",
+      "text": "Boyle saw glowing wood go dark in his air pump in 1667. Dubois split the glow into luciferin and luciferase in the 1880s. McElroy found the need for ATP in 1947. The luciferase gene was copied in 1985 and made a tobacco plant glow in 1986. Firefly luciferase now checks hospital surfaces and lights up genes in labs."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Bioluminescence",
+      "def": "Light made by a living thing through a chemical reaction."
+    },
+    {
+      "term": "Luciferin",
+      "def": "The fuel molecule that is oxidised to make the light."
+    },
+    {
+      "term": "Luciferase",
+      "def": "The enzyme that brings luciferin, ATP and oxygen together to make light."
+    },
+    {
+      "term": "Photocyte",
+      "def": "A light-making cell in the firefly's lantern."
+    },
+    {
+      "term": "Quantum yield",
+      "def": "How many photons are made per 100 molecules that react; about 41 for fireflies."
+    },
+    {
+      "term": "Oxygen gating",
+      "def": "Switching the lantern by controlling how much oxygen reaches the light cells."
+    },
+    {
+      "term": "Nitric oxide",
+      "def": "A small gas molecule that, in the leading model, briefly blocks mitochondria to let oxygen through for a flash."
+    },
+    {
+      "term": "Aggressive mimicry",
+      "def": "A predator faking another animal's signal to lure prey, as Photuris femmes fatales do."
+    },
+    {
+      "term": "Coupled oscillators",
+      "def": "Rhythms that nudge one another until they keep time together."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "fireflyclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

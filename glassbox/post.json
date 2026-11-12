@@ -1,0 +1,126 @@
+{
+  "slug": "fireflyclear",
+  "box": 213,
+  "question": "How does a firefly glow?",
+  "url": "https://glassbox.how/e/fireflyclear/",
+  "app": "https://glassbox.how/fireflyclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "350 years from glowing wood in an air pump to a gene that lights up labs, and a race to keep the real fireflies flashing.\n\n1667: Glowing wood goes dark without air\n1885: Two parts to the glow\n1887: Luciferin and luciferase named\n1947: ATP lights up a spent extract\n1965: Femmes fatales\n1968: How whole trees flash in time\n\nThe full story, with 25 moments, sources and charts: glassbox.how/e/fireflyclear/history (link in bio)\n\nThen play with how it works: glassbox.how/fireflyclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #firefly #bioluminescence #luciferin #luciferase #atp #quantumyield #history",
+      "youtube": {
+        "title": "The history of firefly light in 45 seconds #shorts",
+        "description": "350 years from glowing wood in an air pump to a gene that lights up labs, and a race to keep the real fireflies flashing.\n\n1667 · Glowing wood goes dark without air (Robert Boyle)\n1885 · Two parts to the glow (Raphaël Dubois)\n1887 · Luciferin and luciferase named (Raphaël Dubois)\n1947 · ATP lights up a spent extract (William D. McElroy)\n1965 · Femmes fatales (James E. Lloyd)\n1968 · How whole trees flash in time (John and Elisabeth Buck)\n\n▶ Full history: https://glassbox.how/e/fireflyclear/history/\n▶ Play with it: https://glassbox.how/e/fireflyclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a firefly glow?\n\nA firefly is a beetle with a lamp in its tail that wastes almost nothing as heat. Watch one enzyme turn luciferin, ATP and oxygen into a single yellow-green photon, flip the oxygen switch with a puff of nitric oxide, and make a whole tree of fireflies fall into step.\n\n→ A firefly is a beetle, with a lamp built into the underside of its tail.\n→ Luciferin, ATP and oxygen meet inside the enzyme luciferase.\n→ Make the mix acidic and the same reaction glows orange-red.\n→ A nerve signal makes a puff of nitric oxide, and oxygen floods in: flash.\n→ A Photuris female fakes the answer, and eats the male who believes her.\n\nPlay with it yourself. It's free and open source: glassbox.how/fireflyclear (link in bio)\n\nBox No. 213 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #firefly #bioluminescence #luciferin #luciferase #atp #quantumyield #coldlight #nitricoxide #flashcode",
+    "carousel": "Swipe through: How does a firefly glow?\n\nA firefly is a beetle with a lamp in its tail that wastes almost nothing as heat. Watch one enzyme turn luciferin, ATP and oxygen into a single yellow-green photon, flip the oxygen switch with a puff of nitric oxide, and make a whole tree of fireflies fall into step.\n\nSave this for later, then play with the interactive version at glassbox.how/fireflyclear (link in bio).\n\nBox No. 213 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #firefly #bioluminescence #luciferin #luciferase #atp #quantumyield",
+    "youtube": {
+      "title": "How does a firefly glow? #shorts",
+      "description": "A firefly is a beetle with a lamp in its tail that wastes almost nothing as heat. Watch one enzyme turn luciferin, ATP and oxygen into a single yellow-green photon, flip the oxygen switch with a puff of nitric oxide, and make a whole tree of fireflies fall into step.\n\n▶ Play with it: https://glassbox.how/e/fireflyclear/\n⌘ Source code (MIT): https://github.com/bdeeps/fireflyclear\n\nBox No. 213 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a firefly glow? (interactive explainer)",
+      "description": "A firefly is a beetle with a lamp in its tail that wastes almost nothing as heat. Watch one enzyme turn luciferin, ATP and oxygen into a single yellow-green photon, flip the oxygen switch with a puff of nitric oxide, and make a whole tree of fireflies fall into step.\n\n▶ Play with the interactive version: https://glassbox.how/e/fireflyclear/\n⌘ Source code (MIT): https://github.com/bdeeps/fireflyclear\n\nIn this video:\n• A beetle with a lamp. A firefly is a beetle.\n• Light from chemistry, not heat. Inside each light cell the enzyme luciferase uses ATP to prime luciferin, then oxygen.\n• An oxygen switch. The lantern is dark because mitochondria near the air tubes use up the oxygen.\n• Codes, liars and synchrony. Each species has a flash code: a common eastern firefly male flashes a J every 6 seconds and his female answers 2 seconds later.\n• Fireflies of India and the world. India has at least 92 species, about 60% found nowhere else, most in the Western Ghats.\n• How we found out. Boyle saw glowing wood go dark in his air pump in 1667.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a firefly glow?\n\nA firefly is a beetle with a lamp in its tail that wastes almost nothing as heat.\n\nPlay with it: https://glassbox.how/e/fireflyclear/",
+    "linkedin": "How does a firefly glow?\n\nA firefly is a beetle with a lamp in its tail that wastes almost nothing as heat. Watch one enzyme turn luciferin, ATP and oxygen into a single yellow-green photon, flip the oxygen switch with a puff of nitric oxide, and make a whole tree of fireflies fall into step.\n\n1. A beetle with a lamp\n2. Light from chemistry, not heat\n3. An oxygen switch\n4. Codes, liars and synchrony\n5. Fireflies of India and the world\n6. How we found out\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 213 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/fireflyclear/\nCode: https://github.com/bdeeps/fireflyclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-11-12T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-11-12T11:05:27.219Z"
+}

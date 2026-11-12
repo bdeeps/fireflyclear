@@ -1,0 +1,740 @@
+{
+  "title": "The history of firefly light",
+  "tagline": "350 years from glowing wood in an air pump to a gene that lights up labs, and a race to keep the real fireflies flashing.",
+  "intro": "People have always wondered how a little beetle can make light without fire. An air pump showed the glow needs air, a hot and a cold extract split it into a fuel and an enzyme, and ATP and oxygen explained the chemistry. Then came flash codes, liars, synchrony and the luciferase gene, and today scientists are counting the fireflies before they fade.",
+  "eras": [
+    {
+      "id": "air",
+      "name": "Light that needs air",
+      "from": 1660,
+      "to": 1700,
+      "color": "#c49bff",
+      "summary": "An air pump shows that living light goes out without air."
+    },
+    {
+      "id": "chem",
+      "name": "The chemistry of cold light",
+      "from": 1880,
+      "to": 1965,
+      "color": "#ffb547",
+      "summary": "Scientists split the glow into luciferin and luciferase, add ATP and oxygen, and solve luciferin's structure."
+    },
+    {
+      "id": "signals",
+      "name": "Codes, liars and synchrony",
+      "from": 1960,
+      "to": 2000,
+      "color": "#8ef0ff",
+      "summary": "Field biologists decode flash languages, find fireflies that lie, and mathematicians explain how thousands flash in time."
+    },
+    {
+      "id": "genes",
+      "name": "Genes and switches",
+      "from": 1985,
+      "to": 2015,
+      "color": "#5ce1a9",
+      "summary": "The luciferase gene is copied and put to work, the oxygen switch is explained, and the efficiency is measured again."
+    },
+    {
+      "id": "threats",
+      "name": "Counting and protecting",
+      "from": 2018,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "Experts rank the threats, festivals face hard questions, and India publishes its first firefly checklist."
+    }
+  ],
+  "events": [
+    {
+      "year": 1667,
+      "date": "late 1667",
+      "era": "air",
+      "art": "flask",
+      "key": true,
+      "title": "Glowing wood goes dark without air",
+      "who": "Robert Boyle",
+      "where": "Oxford, England",
+      "country": "England",
+      "text": "Boyle put a piece of glowing rotten wood, and later glowing fish, into the glass jar of his air pump. As the air was pumped out the light faded, and when air was let back in it returned. His report reached the Royal Society on 28 November 1667 and was printed in 1668.",
+      "why": "It was the first experiment to show that living light needs something in the air, which we now know is oxygen.",
+      "sources": [
+        2,
+        3
+      ],
+      "box": "history"
+    },
+    {
+      "year": 1668,
+      "date": "1668",
+      "era": "air",
+      "art": "scroll",
+      "key": false,
+      "title": "Light and air in print",
+      "who": "Robert Boyle",
+      "where": "London, England",
+      "country": "England",
+      "text": "Boyle's 'New experiments concerning the relation between light and air (in shining wood and fish)' appeared in the Philosophical Transactions of the Royal Society, listing his experiments with the air pump.",
+      "why": "Other scientists could now repeat the test for themselves.",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "c. 1885",
+      "era": "chem",
+      "art": "flask",
+      "key": true,
+      "title": "Two parts to the glow",
+      "who": "Raphaël Dubois",
+      "where": "France",
+      "country": "France",
+      "text": "Dubois made two extracts from the light organs of the glowing click beetle Pyrophorus. A cold-water extract glowed and faded; a boiled one never glowed; mixed together they glowed again. Sources date this work to the mid-1880s (attributed 1885).",
+      "why": "It showed that bioluminescence needs a heat-proof fuel and a heat-sensitive helper.",
+      "sources": [
+        1,
+        4
+      ],
+      "box": "history"
+    },
+    {
+      "year": 1887,
+      "date": "1887",
+      "era": "chem",
+      "art": "scroll",
+      "key": true,
+      "title": "Luciferin and luciferase named",
+      "who": "Raphaël Dubois",
+      "where": "France",
+      "country": "France",
+      "text": "Studying the glowing rock-boring clam Pholas dactylus, Dubois called the heat-stable fuel luciferin and the heat-sensitive part luciferase, after Lucifer, 'light bringer'. Some sources put the names two years earlier.",
+      "why": "The names are still used for every glowing living thing, from fireflies to deep-sea fish.",
+      "sources": [
+        1,
+        4
+      ],
+      "box": "coldlight"
+    },
+    {
+      "year": 1947,
+      "date": "November 1947",
+      "era": "chem",
+      "art": "molecule",
+      "key": true,
+      "title": "ATP lights up a spent extract",
+      "who": "William D. McElroy",
+      "where": "Johns Hopkins University, Baltimore",
+      "country": "USA",
+      "text": "McElroy found that firefly lantern extracts that had stopped glowing lit up again when ATP was added. ATP turned out to prime the luciferin, while the light's energy comes from its reaction with oxygen.",
+      "why": "It tied firefly light to ATP, the energy molecule of every cell, and later made luciferase a way to measure ATP.",
+      "sources": [
+        5,
+        6
+      ],
+      "box": "coldlight"
+    },
+    {
+      "year": 1960,
+      "date": "1959–1960",
+      "era": "chem",
+      "art": "colour",
+      "key": false,
+      "title": "Almost every molecule makes a photon?",
+      "who": "Howard Seliger and William McElroy",
+      "where": "Johns Hopkins University, Baltimore",
+      "country": "USA",
+      "text": "Seliger and McElroy measured the quantum yield of the firefly reaction and reported a value close to one: about 88 photons for every 100 luciferin molecules, as later papers quote it.",
+      "why": "For nearly 50 years fireflies were called almost perfectly efficient light makers.",
+      "sources": [
+        6,
+        10
+      ]
+    },
+    {
+      "year": 1961,
+      "date": "1961",
+      "era": "chem",
+      "art": "molecule",
+      "key": false,
+      "title": "Luciferin's structure solved and made",
+      "who": "Emil White, Frank McCapra, George Field and William McElroy",
+      "where": "Johns Hopkins University, Baltimore",
+      "country": "USA",
+      "text": "Chemists worked out the structure of firefly luciferin, two joined rings with a sulphur-containing ring at one end, and made it in the laboratory.",
+      "why": "Synthetic luciferin is what ATP tests and biology labs use today.",
+      "sources": [
+        24,
+        7,
+        6
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "era": "chem",
+      "art": "cell",
+      "key": false,
+      "title": "The lantern under the electron microscope",
+      "who": "David S. Smith",
+      "where": "USA",
+      "country": "USA",
+      "text": "Smith described the lantern of Photuris pennsylvanica in fine detail: light cells in rosettes round air-tube cylinders, and nerve endings on the air-tube cells rather than on the light cells.",
+      "why": "It set up the puzzle of how a nerve can switch on cells it never touches.",
+      "sources": [
+        22
+      ],
+      "box": "anatomy"
+    },
+    {
+      "year": 1965,
+      "date": "6 August 1965",
+      "era": "signals",
+      "art": "eye",
+      "key": true,
+      "title": "Femmes fatales",
+      "who": "James E. Lloyd",
+      "where": "Gainesville, Florida",
+      "country": "USA",
+      "text": "Lloyd reported that predatory Photuris females copy the flash answers of other species' females, lure their males and eat them. Switching his own flash pattern, he found the same females could answer other species' codes.",
+      "why": "It revealed lying in light, a classic case of aggressive mimicry.",
+      "sources": [
+        11
+      ],
+      "box": "flash"
+    },
+    {
+      "year": 1966,
+      "date": "1966",
+      "era": "signals",
+      "art": "flash",
+      "key": false,
+      "title": "Flash codes catalogued",
+      "who": "James E. Lloyd",
+      "where": "USA",
+      "country": "USA",
+      "text": "Lloyd's study of Photinus fireflies described each species' flash pattern and the female's answer delay. The common eastern firefly male flashes about every 5.9 seconds.",
+      "why": "Flash codes became a way to tell species apart in the dark.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "22 March 1968",
+      "era": "signals",
+      "art": "sinewave",
+      "key": true,
+      "title": "How whole trees flash in time",
+      "who": "John and Elisabeth Buck",
+      "where": "Thailand and USA",
+      "country": "Thailand",
+      "text": "The Bucks studied male Pteroptyx fireflies that gather in mangrove trees in Thailand and flash together, about once every 0.56 seconds, within about 20 thousandths of a second of each other. They argued each insect adjusts its own internal rhythm to the flashes it sees.",
+      "why": "It turned a travellers' tale into a problem for biology and, later, mathematics.",
+      "sources": [
+        12
+      ],
+      "box": "flash"
+    },
+    {
+      "year": 1975,
+      "date": "1975",
+      "era": "signals",
+      "art": "sinewave",
+      "key": false,
+      "title": "A model of falling into step",
+      "who": "Yoshiki Kuramoto",
+      "where": "Kyoto, Japan",
+      "country": "Japan",
+      "text": "Kuramoto wrote down a simple model of many oscillators, each with its own rhythm, nudging one another. Above a certain coupling strength they suddenly synchronise.",
+      "why": "Researchers later used it for fireflies, heart cells and power grids.",
+      "sources": [
+        21
+      ],
+      "box": "flash"
+    },
+    {
+      "year": 1985,
+      "date": "December 1985",
+      "era": "genes",
+      "art": "cell",
+      "key": true,
+      "title": "The luciferase gene is copied",
+      "who": "Jeffrey de Wet, Keith Wood, Donald Helinski and Marlene DeLuca",
+      "where": "University of California, San Diego",
+      "country": "USA",
+      "text": "The team copied the luciferase gene from the lantern of the common eastern firefly, Photinus pyralis, and got bacteria to make working luciferase that glowed when given luciferin and ATP.",
+      "why": "Luciferase could now be made to order and put into other living things.",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "14 November 1986",
+      "era": "genes",
+      "art": "leaf",
+      "key": true,
+      "title": "A tobacco plant that glows",
+      "who": "David Ow, Keith Wood, Marlene DeLuca and colleagues",
+      "where": "University of California, San Diego",
+      "country": "USA",
+      "text": "The team put the firefly luciferase gene into tobacco plants. Given luciferin, the plants glowed, and a photograph of a glowing tobacco plant went around the world.",
+      "why": "It launched luciferase as one of biology's favourite reporter genes.",
+      "sources": [
+        9
+      ],
+      "box": "history"
+    },
+    {
+      "year": 1990,
+      "date": "December 1990",
+      "era": "signals",
+      "art": "sinewave",
+      "key": false,
+      "title": "Proving fireflies must synchronise",
+      "who": "Renato Mirollo and Steven Strogatz",
+      "where": "USA",
+      "country": "USA",
+      "text": "Mirollo and Strogatz proved that identical oscillators that kick each other only when they fire, as fireflies do with flashes, always end up in step.",
+      "why": "It gave firefly synchrony a firm mathematical footing.",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "1992",
+      "era": "signals",
+      "art": "night",
+      "key": false,
+      "title": "Synchronous fireflies in the Smokies",
+      "who": "Lynn Faust and firefly scientists",
+      "where": "Elkmont, Tennessee",
+      "country": "USA",
+      "text": "Naturalist Lynn Faust told scientists that the fireflies near her family cabin flashed together. Experts confirmed it: Photinus carolinus makes bursts of five to eight flashes, then about eight seconds of darkness.",
+      "why": "It showed synchronous fireflies live in the Americas too, and the park now limits viewing by lottery.",
+      "sources": [
+        26,
+        16
+      ],
+      "box": "flash"
+    },
+    {
+      "year": 1999,
+      "date": "1999 (reported)",
+      "era": "signals",
+      "art": "night",
+      "key": false,
+      "title": "A firefly show in Anamalai",
+      "who": "Scientists at Anamalai Tiger Reserve",
+      "where": "Anamalai Tiger Reserve, Tamil Nadu",
+      "country": "India",
+      "text": "News reports say scientists first noticed a mass, possibly synchronous, firefly display in the Anamalai Tiger Reserve in 1999 and again in 2012. Species identified there include Abscondita perplexa. The date comes from press reports, not a published paper.",
+      "why": "It suggests India has its own spectacular congregations still waiting to be studied.",
+      "sources": [
+        25
+      ],
+      "box": "india"
+    },
+    {
+      "year": 2001,
+      "date": "28 June 2001",
+      "era": "genes",
+      "art": "neuron",
+      "key": true,
+      "title": "Nitric oxide flips the switch",
+      "who": "Barry Trimmer and colleagues",
+      "where": "Tufts University, Massachusetts",
+      "country": "USA",
+      "text": "Fireflies given nitric oxide gas with oxygen glowed, and chemicals that soak up nitric oxide blocked the flash. The team proposed that nerve signals make nitric oxide, which briefly blocks the mitochondria so oxygen can reach the light-making granules.",
+      "why": "It is still the leading explanation of how fireflies switch their light on and off.",
+      "sources": [
+        13
+      ],
+      "box": "flash"
+    },
+    {
+      "year": 2001,
+      "date": "15 August 2001",
+      "era": "genes",
+      "art": "membrane",
+      "key": false,
+      "title": "Oxygen is the gate",
+      "who": "Graham Timmins and colleagues",
+      "where": "USA",
+      "country": "USA",
+      "text": "Fireflies kept in extra oxygen glowed nonstop, whether or not they normally flashed. The team concluded the lantern is kept dark by holding back oxygen.",
+      "why": "Every model of the flash now starts with oxygen.",
+      "sources": [
+        14
+      ],
+      "box": "flash"
+    },
+    {
+      "year": 2008,
+      "date": "January 2008",
+      "era": "genes",
+      "art": "colour",
+      "key": true,
+      "title": "41%, not 88%",
+      "who": "Yoriko Ando and colleagues",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Using a new instrument that counts every photon, a Japanese team measured the firefly reaction's quantum yield at 41.0 ± 7.4%, less than half the old figure, and showed how acidity turns the light red.",
+      "why": "Firefly light is still excellent, but no longer 'nearly perfect'.",
+      "sources": [
+        10
+      ],
+      "box": "coldlight"
+    },
+    {
+      "year": 2013,
+      "date": "2013",
+      "era": "genes",
+      "art": "cell",
+      "key": false,
+      "title": "The mirror is made of uric acid",
+      "who": "Kok-Sing Goh, Chia-Wei Li and colleagues",
+      "where": "Taiwan",
+      "country": "Taiwan",
+      "text": "Studying the Taiwanese firefly Luciola cerata, the team found the lantern's white reflector layer packed with round granules of uric acid about 700 nanometres across, and showed that the layer reflects the light.",
+      "why": "It explained how the lantern bounces its light outwards.",
+      "sources": [
+        23
+      ],
+      "box": "anatomy"
+    },
+    {
+      "year": 2014,
+      "date": "2014",
+      "era": "genes",
+      "art": "neuron",
+      "key": false,
+      "title": "Testing the nitric oxide idea",
+      "who": "Hajime Ohtsuki, Masakado Kawata and colleagues",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Comparing Japanese fireflies, the team found the gene for making nitric oxide active in lanterns of a species that does not flash, and no higher in adults that flash faster. They concluded their data did not support the nitric oxide model.",
+      "why": "The leading model of the flash switch is still being tested.",
+      "sources": [
+        29
+      ],
+      "box": "flash"
+    },
+    {
+      "year": 2020,
+      "date": "3 February 2020",
+      "era": "threats",
+      "art": "earth",
+      "key": true,
+      "title": "Fireflies under threat",
+      "who": "Sara Lewis and colleagues",
+      "where": "Tufts University and worldwide",
+      "country": "USA",
+      "text": "Firefly experts around the world ranked the threats they see: habitat loss first, light at night second and pesticides third. In East Asia and South America, light pollution came first.",
+      "why": "It gave conservation a priority list for some 2,000 firefly species.",
+      "sources": [
+        15
+      ],
+      "box": "people"
+    },
+    {
+      "year": 2022,
+      "date": "1 July 2022",
+      "era": "threats",
+      "art": "person",
+      "key": false,
+      "title": "Festivals under the spotlight",
+      "who": "Botanists, forest officers and festival organisers",
+      "where": "Maharashtra",
+      "country": "India",
+      "text": "Reports from Bhandardara, Purushwadi and other Western Ghats villages listed the harm from crowds: torches and phones, crushed females, night camping and fireflies caught in bottles. Kolhapur's forest department stopped gatherings in the forest after 10 pm.",
+      "why": "Firefly tourism can help villages, but only if it protects the fireflies.",
+      "sources": [
+        18
+      ],
+      "box": "india"
+    },
+    {
+      "year": 2026,
+      "date": "10 March 2026",
+      "era": "threats",
+      "art": "scroll",
+      "key": true,
+      "title": "India counts its fireflies",
+      "who": "Parvez, Akshay Kumar Chakravarthy, Oliver Keller, Devanshu Gupta and Amlan Das",
+      "where": "India",
+      "country": "India",
+      "text": "The first full checklist of India's fireflies listed 92 species in 27 genera. About 61% are found only in India, the Western Ghats has the most, and more than 50 species have not been recorded since they were first described.",
+      "why": "It is the starting point for protecting India's fireflies.",
+      "sources": [
+        19,
+        17
+      ],
+      "box": "india"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Living light shown to need air",
+      "value": "1667",
+      "who": "Robert Boyle, England"
+    },
+    {
+      "label": "Luciferin and luciferase named",
+      "value": "1885–1887",
+      "who": "Raphaël Dubois, France"
+    },
+    {
+      "label": "ATP found to be needed",
+      "value": "1947",
+      "who": "William McElroy, USA"
+    },
+    {
+      "label": "Firefly femme fatale described",
+      "value": "1965",
+      "who": "James E. Lloyd, USA"
+    },
+    {
+      "label": "Firefly luciferase gene copied",
+      "value": "1985",
+      "who": "de Wet, Wood, Helinski and DeLuca, USA"
+    },
+    {
+      "label": "First full checklist of India's fireflies",
+      "value": "2026",
+      "who": "Parvez and colleagues, India"
+    }
+  ],
+  "people": [
+    {
+      "name": "Robert Boyle",
+      "life": "1627 – 1691",
+      "role": "Natural philosopher",
+      "from": "Ireland",
+      "note": "Showed with his air pump that glowing wood and fish go dark without air."
+    },
+    {
+      "name": "Raphaël Dubois",
+      "life": "1849 – 1929",
+      "role": "Physiologist",
+      "from": "France",
+      "note": "Split bioluminescence into luciferin and luciferase."
+    },
+    {
+      "name": "William D. McElroy",
+      "life": "20th century",
+      "role": "Biochemist",
+      "from": "USA",
+      "note": "Found that firefly light needs ATP and led the work on luciferin's structure."
+    },
+    {
+      "name": "James E. Lloyd",
+      "life": "20th–21st century",
+      "role": "Entomologist",
+      "from": "USA",
+      "note": "Decoded flash languages and discovered the Photuris femmes fatales."
+    },
+    {
+      "name": "John and Elisabeth Buck",
+      "life": "20th century",
+      "role": "Biologists",
+      "from": "USA",
+      "note": "Studied synchronous fireflies in Thailand and how flashes are timed."
+    },
+    {
+      "name": "Lynn Faust",
+      "life": "20th–21st century",
+      "role": "Naturalist",
+      "from": "USA",
+      "note": "Alerted scientists to the synchronous fireflies of Elkmont."
+    },
+    {
+      "name": "Yoriko Ando",
+      "life": "21st century",
+      "role": "Scientist",
+      "from": "Japan",
+      "note": "Led the 2008 measurement that put firefly efficiency at 41%."
+    },
+    {
+      "name": "Sara Lewis",
+      "life": "21st century",
+      "role": "Evolutionary ecologist",
+      "from": "USA",
+      "note": "Led the 2020 global survey of threats to fireflies."
+    },
+    {
+      "name": "Parvez",
+      "life": "21st century",
+      "role": "Firefly researcher",
+      "from": "India",
+      "note": "Lead author of India's first firefly checklist and South Asia coordinator of the IUCN SSC Firefly Specialist Group."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "A firefly is a beetle, not a fly. There are more than 2,000 species.",
+    "Out of every 100 luciferin molecules that react, about 41 make a photon of light.",
+    "Male common eastern fireflies flash about every 6 seconds; their females answer about 2 seconds later.",
+    "Some Photuris fireflies fake other species' replies to lure and eat their males.",
+    "India has at least 92 firefly species, about 6 in 10 found nowhere else."
+  ],
+  "sources": [
+    {
+      "title": "Firefly",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Firefly"
+    },
+    {
+      "title": "Raphaël Dubois",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Dubois"
+    },
+    {
+      "title": "Paper, 'Some new experiments about light and aire' by Robert Boyle",
+      "publisher": "The Royal Society, Science in the Making",
+      "url": "https://makingscience.royalsociety.org/items/clp_4i_20/paper-some-new-experiments-about-light-and-aire-by-robert-boyle"
+    },
+    {
+      "title": "Robert Boyle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Boyle"
+    },
+    {
+      "title": "Dubois, Raphael-Horace",
+      "publisher": "Complete Dictionary of Scientific Biography (encyclopedia.com)",
+      "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/dubois-raphael-horace"
+    },
+    {
+      "title": "McElroy WD (1947). The energy source for bioluminescence in an isolated system. PNAS 33: 342–345",
+      "publisher": "Proceedings of the National Academy of Sciences (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1079070"
+    },
+    {
+      "title": "William D. McElroy, Biographical Memoirs",
+      "publisher": "National Academy of Sciences",
+      "url": "https://nap.nationalacademies.org/resource/biomems/wmcelroy.html"
+    },
+    {
+      "title": "Firefly luciferin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Firefly_luciferin"
+    },
+    {
+      "title": "de Wet JR, Wood KV, Helinski DR, DeLuca M (1985). Cloning of firefly luciferase cDNA and the expression of active luciferase in Escherichia coli. PNAS 82: 7870–7873",
+      "publisher": "Proceedings of the National Academy of Sciences (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC390871"
+    },
+    {
+      "title": "Ow DW et al. (1986). Transient and stable expression of the firefly luciferase gene in plant cells and transgenic plants. Science 234: 856–859",
+      "publisher": "Science",
+      "url": "https://doi.org/10.1126/science.234.4778.856"
+    },
+    {
+      "title": "Ando Y et al. (2008). Firefly bioluminescence quantum yield and colour change by pH-sensitive green emission. Nature Photonics 2: 44–47",
+      "publisher": "Nature Photonics",
+      "url": "https://www.nature.com/articles/nphoton.2007.251"
+    },
+    {
+      "title": "Lloyd JE (1965). Aggressive mimicry in Photuris: firefly femmes fatales. Science 149: 653–654",
+      "publisher": "Science",
+      "url": "https://doi.org/10.1126/science.149.3684.653"
+    },
+    {
+      "title": "Buck J, Buck E (1968). Mechanism of rhythmic synchronous flashing of fireflies. Science 159: 1319–1327",
+      "publisher": "Science",
+      "url": "https://doi.org/10.1126/science.159.3821.1319"
+    },
+    {
+      "title": "Trimmer BA et al. (2001). Nitric oxide and the control of firefly flashing. Science 292: 2486–2488",
+      "publisher": "Science",
+      "url": "https://doi.org/10.1126/science.1059833"
+    },
+    {
+      "title": "Timmins GS et al. (2001). Firefly flashing is controlled by gating oxygen to light-emitting cells. J Exp Biol 204: 2795–2801",
+      "publisher": "Journal of Experimental Biology",
+      "url": "https://journals.biologists.com/jeb/article/204/16/2795/32847"
+    },
+    {
+      "title": "Lewis SM et al. (2020). A global perspective on firefly extinction threats. BioScience 70: 157–167",
+      "publisher": "BioScience (Oxford University Press)",
+      "url": "https://doi.org/10.1093/biosci/biz157"
+    },
+    {
+      "title": "Synchronous Fireflies",
+      "publisher": "US National Park Service, Great Smoky Mountains National Park",
+      "url": "https://www.nps.gov/grsm/learn/nature/fireflies.htm"
+    },
+    {
+      "title": "India's first firefly checklist records 92 species, reveals high endemism",
+      "publisher": "Mongabay India",
+      "url": "https://india.mongabay.com/short-article/2026/03/indias-first-firefly-checklist-records-92-species-reveals-high-endemism/"
+    },
+    {
+      "title": "Dimming the glow of firefly festivals in Maharashtra",
+      "publisher": "Mongabay India",
+      "url": "https://india.mongabay.com/2022/07/dimming-the-glow-of-firefly-festivals-in-maharashtra/"
+    },
+    {
+      "title": "Parvez et al. (2026). A checklist of fireflies (Coleoptera: Lampyridae) from India. Zootaxa 5768(2): 229–249",
+      "publisher": "Zootaxa (Magnolia Press)",
+      "url": "https://mapress.com/zt/article/view/56989"
+    },
+    {
+      "title": "Mirollo RE, Strogatz SH (1990). Synchronization of pulse-coupled biological oscillators. SIAM J Appl Math 50: 1645–1662",
+      "publisher": "SIAM",
+      "url": "https://doi.org/10.1137/0150098"
+    },
+    {
+      "title": "Kuramoto model",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kuramoto_model"
+    },
+    {
+      "title": "Smith DS (1963). The organization and innervation of the luminescent organ in a firefly, Photuris pennsylvanica",
+      "publisher": "Journal of Cell Biology (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2106255"
+    },
+    {
+      "title": "Goh K-S et al. (2013). Uric acid spherulites in the reflector layer of firefly light organ. PLoS ONE 8: e56406",
+      "publisher": "PLoS ONE (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3575340"
+    },
+    {
+      "title": "White EH, McCapra F, Field GF, McElroy WD (1961). The structure and synthesis of firefly luciferin. J Am Chem Soc 83: 2402–2403",
+      "publisher": "Journal of the American Chemical Society",
+      "url": "https://doi.org/10.1021/ja01471a051"
+    },
+    {
+      "title": "The Enchanted Forest: the love language of fireflies in Anamalai Tiger Reserve",
+      "publisher": "Roundglass Sustain",
+      "url": "https://roundglasssustain.com/photo-stories/fireflies-india"
+    },
+    {
+      "title": "Fireflies and Lynn Faust",
+      "publisher": "The Nature Conservancy",
+      "url": "https://www.nature.org/en-us/about-us/where-we-work/united-states/tennessee/stories-in-tennessee/fireflies-lynn-faust/"
+    },
+    {
+      "title": "ENZYME entry EC 1.13.12.7, Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)",
+      "publisher": "ExPASy (SIB Swiss Institute of Bioinformatics)",
+      "url": "https://enzyme.expasy.org/EC/1.13.12.7"
+    },
+    {
+      "title": "Firefly luciferase",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Firefly_luciferase"
+    },
+    {
+      "title": "Ohtsuki H et al. (2014). Expression of the nos gene and firefly flashing: a test of the nitric-oxide-mediated flash control model. J Insect Sci 14: 56",
+      "publisher": "Journal of Insect Science",
+      "url": "https://academic.oup.com/jinsectscience/article/14/1/56/2386239"
+    },
+    {
+      "title": "LED Lighting",
+      "publisher": "US Department of Energy, Energy Saver",
+      "url": "https://www.energy.gov/energysaver/led-lighting"
+    }
+  ]
+}
